@@ -12,7 +12,7 @@ This library lets you connect to the Sigfox network
 
 <p align="center">
 
-![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg)
+<img src="https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg">
 
 ![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png)
 
@@ -20,6 +20,8 @@ This library lets you connect to the Sigfox network
 
 #### BRKWS01 Circuit Diagram
 * [Circuit Diagram](https://yadom.fr/downloadable/download/sample/sample_id/160/ "Circuit Diagram")
+
+![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/wiring.png)
 
 #### BRKWS01 AT Commands
 * [AT Commands](https://yadom.fr/downloadable/download/sample/sample_id/199/ "AT Commands")
