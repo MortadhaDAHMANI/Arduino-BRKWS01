@@ -11,11 +11,12 @@ This library lets you connect to the Sigfox network
 * [Breakout Sigfox](https://yadom.fr/carte-breakout-sfm10r1.html "Breakout Sigfox")
 
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg">
+</p>
 
 * [Pinout Sigfox]
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png">
 
 </p>
