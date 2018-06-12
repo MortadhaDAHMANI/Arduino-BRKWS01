@@ -14,7 +14,9 @@ This library lets you connect to the Sigfox network
 
 <img src="https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg">
 
-![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png)
+* [Pinout Sigfox]
+
+<img src="https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png">
 
 </p>
 
