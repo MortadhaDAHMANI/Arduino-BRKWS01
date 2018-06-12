@@ -30,9 +30,16 @@ Or (recommended)
 
 * To use a library in a sketch, select it from Sketch > Import Library (Zip file).
 
+#### 2. AT Commands
 ```
-AT$T?              // Get the temperature
+AT$T?              // Get the current temperature
 0272               // 27.2°C
+
+AT$V?              // Get the current Voltage
+3305               // 3.305V current Voltage
+3325               // 3.325V last transmission Voltage
+
+
 ```
 
 ## Revision History
