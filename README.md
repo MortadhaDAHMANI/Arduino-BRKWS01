@@ -12,8 +12,13 @@ This library lets you connect to the Sigfox network
 
 ![alt iviny](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg)
 
+![alt iviny](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png)
+
 #### BRKWS01 Circuit Diagram
 * [Circuit Diagram](https://yadom.fr/downloadable/download/sample/sample_id/160/ "Circuit Diagram")
+
+#### BRKWS01 AT Commands
+* [AT Commands](https://yadom.fr/downloadable/download/sample/sample_id/199/ "AT Commands")
 
 ## Software
 #### 1. Install MAMDSig Library
@@ -24,6 +29,11 @@ This library lets you connect to the Sigfox network
 Or (recommended)
 
 * To use a library in a sketch, select it from Sketch > Import Library (Zip file).
+
+```
+AT$T?              // Get the temperature
+0272               // 27.2°C
+```
 
 ## Revision History
 * Initial Release : 11 June 2018
