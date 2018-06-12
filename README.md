@@ -10,13 +10,13 @@ This library lets you connect to the Sigfox network
 #### Breakout Sigfox BRKWS01
 * [Breakout Sigfox](https://yadom.fr/carte-breakout-sfm10r1.html "Breakout Sigfox")
 
-<div style="text-align:center" markdown="1">
+<p align="center">
 
 ![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/yadom.jpg)
 
 ![Alt Text](https://raw.githubusercontent.com/MortadhaDAHMANI/Arduino-BRKWS01/master/pinout.png)
 
-</div>
+</p>
 
 #### BRKWS01 Circuit Diagram
 * [Circuit Diagram](https://yadom.fr/downloadable/download/sample/sample_id/160/ "Circuit Diagram")
